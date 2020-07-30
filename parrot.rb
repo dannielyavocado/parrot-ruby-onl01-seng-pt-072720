@@ -1,6 +1,5 @@
 def parrot (phrase = "Squawk!")
   puts "Hello, #{phrase}"
-  return "That's the sound I make"
 end
 
 parrot 
